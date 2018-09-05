@@ -42,7 +42,7 @@ body.gold{
 body.star-wars {
   justify-content: center;
   color: #feda4a;
-  font-family: 'Pathway Gothic One', sans-serif;
+  font-family: 'Lucida Console', monospace;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
