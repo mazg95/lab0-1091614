@@ -40,9 +40,18 @@ body.gold{
 }
 
 body.star-wars {
-  justify-content: center;
   color: #feda4a;
   font-family: 'Lucida Console', monospace;
+}
+
+.container article p{
+  text-align: justify;
+  margin-right: auto;
+  margin-left: auto; 
+}
+
+body.bf{
+  font-size: 3vw;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */

@@ -35,7 +35,8 @@ function change_color(){
 }
 
 function change_font_size(){
-
+    var element = $('body');
+    changeClassElement(element, 'bf');
 }
 
 function changeClassElement(el, c){
