@@ -35,6 +35,16 @@ body {
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
 
+body.gold{
+  color: #DAA520;
+}
+
+body.star-wars {
+  justify-content: center;
+  color: #feda4a;
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
   display: table;
@@ -128,8 +138,9 @@ body {
   color: rgba(255,255,255,.5);
 }
 
-
-
+.expanded{
+  background: url(images/cover.jpg) no-repeat left top;
+}
 
 /*
  * Affix and center
